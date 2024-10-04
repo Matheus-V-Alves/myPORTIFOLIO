@@ -1,9 +1,9 @@
 .sideBar {
-    background: #BA8B02;
+    background: #1A535C;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #181818, #BA8B02);
+    background: -webkit-linear-gradient(to right, #181818, #1A535C);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #181818, #BA8B02);
+    background: linear-gradient(to right, #181818, #1A535C);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: white
 }
@@ -22,12 +22,12 @@
 }
 
 .img-border {
-    background-image: url('../Images/avatar-bg.webp');
+    background-image: url('');
     background-size: cover;
 }
 
 .avatar {
-    background-image: url('../Images/SoumenTalukder.webp');
+    background-image: url('../Images/Matheusalves.webp');
     transform: translate(3%, -2%);
 }
 
@@ -62,7 +62,7 @@
 }
 
 .card-image {
-    background-image: url('../Images/Project-Rick&MortyWiki.webp');
+    background-image: url('../Images/Project-formulae.png');
     background-position: center;
     background-size: cover;
 }

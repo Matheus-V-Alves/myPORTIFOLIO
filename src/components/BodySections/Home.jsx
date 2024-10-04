@@ -12,16 +12,16 @@ const Home = () => {
         </div>
       </div>
       <>
-        <span className="relative font-dancingScript text-2xl tracking-widest">
-          Hey there!
+        <span style={{color: '#349090'}} className="relative font-dancingScript text-2xl tracking-widest">
+          Olá, seja bem vindo!
         </span>
-        <span className=" text-5xl font-extrabold relative font-dm-serifDisplay tracking-wider text-amber-400">
-          I am Soumen TALUKDER
+        <span style={{color: '#A3E6DE'}} className=" text-5xl font-extrabold relative font-dm-serifDisplay tracking-wider text-amber-400">
+          Eu sou Matheus ALVES
         </span>
       </>
       <span className=" text-2xl text-center relative font-genos">
-        A Frontend Developer with a passion for creating beautiful,
-        user-friendly websites.
+         Desenvolvedor Frontend e esse é o meu Portifólio. <br/>
+         (Apenas para o CP, o real se encontra no meu github)
       </span>
     </div>
   );

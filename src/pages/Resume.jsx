@@ -9,17 +9,17 @@ function Resume() {
     <div className="resume-body flex font-bold pt-8 pl-12 pb-8">
       <Link to="/">
         <div className="g-btn" title="Home">
-          <FontAwesomeIcon icon={faChevronLeft} /> Back
+          <FontAwesomeIcon icon={faChevronLeft} /> Voltar
         </div>
       </Link>
 
       <div className="resume-content h-full w-full flex justify-center items-center gap-20">
-        <img src="./WorkCV.png" alt="resume" />
+        <img src="../assets/Images/work.png" alt="Currículo" />
         <a
-          href="./WorkCV.pdf"
+          href="../assets/Images/Profile.pdf"
           download
           className="g-btn-2"
-          title="Download Resume"
+          title="Download Currículo"
         >
           {" "}
           <FontAwesomeIcon icon={faDownload} className=" mr-2" />. PDF

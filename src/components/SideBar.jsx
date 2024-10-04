@@ -13,14 +13,14 @@ const SideBar = () => {
     <div class="lefttSideBar sideBar fixed top-1/4 left-0 flex flex-col items-start justify-start gap-7 p-4">
       <div class="icon-container flex flex-row items-center justify-start cursor-pointer relative mt-2 hover:w-48">
         <a
-          href="https://github.com/talukdersoumen?tab=repositories"
+          href="https://github.com/Matheus-V-Alves"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faGithub} className="icn text-2xl " />
         </a>
         <a
-          href="https://github.com/talukdersoumen?tab=repositories"
+          href="https://github.com/Matheus-V-Alves"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -31,14 +31,14 @@ const SideBar = () => {
       </div>
       <div class="icon-container flex flex-row items-center justify-start cursor-pointer relative hover:w-48">
         <a
-          href="https://www.linkedin.com/in/soumensagor/"
+          href="https://www.linkedin.com/in/matheus-alves-84719"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faLinkedin} className="icn text-2xl" />
         </a>
         <a
-          href="https://www.linkedin.com/in/soumensagor/"
+          href="https://www.linkedin.com/in/matheus-alves-84719"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -53,20 +53,20 @@ const SideBar = () => {
         </Link>
         <Link to="/resume">
           <span class="icon-name left-7 absolute opacity-0 top-1/2 -translate-y-1/2 p-2.5">
-            Resume
+            Currículo
           </span>
         </Link>
       </div>
       <div class="icon-container flex flex-row items-center justify-start cursor-pointer relative hover:w-48">
         <a
-          href="http://wa.me/+8801521527428"
+          href="http://wa.me/+5581988915183"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faWhatsapp} className="icn text-2xl" />
         </a>
         <a
-          href="http://wa.me/+8801521527428"
+          href="http://wa.me/+5581988915183"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -77,19 +77,19 @@ const SideBar = () => {
       </div>
       <div class="icon-container flex flex-row items-center justify-start cursor-pointer relative mb-2 hover:w-48">
         <a
-          href="mailto:soumen.sagor@gmail.com"
+          href="mailto:matheusvsoftware@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faEnvelope} className="icn text-xl " />
         </a>
         <a
-          href="mailto:soumen.sagor@gmail.com"
+          href="mailto:matheusvsoftware@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <span class="icon-name left-7 absolute opacity-0 top-1/2 -translate-y-1/2 p-2.5">
-            Mail
+            Email
           </span>
         </a>
       </div>

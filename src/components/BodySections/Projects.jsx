@@ -28,44 +28,44 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
           {isHovered && (
             <div className="card-overlay absolute top-0 left-0 w-full h-full bg-black/50 backdrop-blur-sm flex flex-col items-center justify-center gap-5 opacity-0">
               <div className="font-bold">
-                A dynamic React app with Rick & Morty API
+                Projeto de popularização da Formula E, em parceria com a FIAP.
               </div>
               <div className="links flex items-center justify-center gap-5">
                 <a
-                  className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center hover:bg-amber-400 hover:text-black"
-                  href="https://inquisitive-zuccutto-841c56.netlify.app/"
+                  className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center hover:bg-cyan-400 hover:text-black"
+                  href="https://challenge-formula-e.github.io/Sprint-WebDev-e-front/login"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FontAwesomeIcon icon={faEye} />
-                  Live Demo
+                  Visualizar site
                 </a>
                 <a
-                  className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center  hover:bg-amber-400 hover:text-black"
-                  href="https://github.com/talukdersoumen/rick_and_morty-react"
+                  className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center  hover:bg-cyan-400 hover:text-black"
+                  href="https://github.com/Challenge-Formula-E/Sprint-WebDev-e-front"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FontAwesomeIcon icon={faCode} />
-                  View Source
+                  Código
                 </a>
               </div>
               <div className="text-xs flex flex-col gap-1 items-center">
-                <span> Written in : JavaScript XML, Vanilla CSS</span>
+                <span> Feito em : JavaScript XML, Vanilla CSS, TypeScript, Tailwind</span>
                 <span>Tools: React router, RestAPI</span>
               </div>
             </div>
           )}
         </div>
       </div>
-      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
-        Coming Soon
+      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-cyan-400 cursor-pointer">
+        Em breve
       </div>
-      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
-        Coming Soon
+      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-cyan-400 cursor-pointer">
+        Em breve
       </div>
-      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
-        Coming Soon
+      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-cyan-400 cursor-pointer">
+        Em Breve
       </div>
     </div>
   );

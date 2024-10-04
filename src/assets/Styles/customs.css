@@ -1,9 +1,9 @@
 .icn:hover {
-    color: #FFCA28;
+    color: #4ECDC4;
 }
 
 .btn:hover {
-    @apply text-yellow-300
+    @apply text-blue-300
 }
 
 .btn {
@@ -30,14 +30,14 @@
 }
 
 .g-btn-2 {
-    background-image: linear-gradient(to right, #ee0979 0%, #ff6a00 51%, #ee0979 100%);
+    background-image: linear-gradient(to right, #1A535C 0%, #2eacb5 51%, #4ECDC4 100%);
     margin: 10px;
     padding: 15px 45px;
     text-align: center;
     text-transform: uppercase;
     transition: 0.5s;
     background-size: 200% auto;
-    color: white;
+    color: #F7FFF7;
     border-radius: 10px;
     display: block;
 }
