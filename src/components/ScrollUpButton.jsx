@@ -34,7 +34,7 @@ const ScrollToTopButton = () => {
 
   return (
     <button
-      className="ArrowUp fixed bottom-6 right-6 bg-gray-500 text-white p-3.5 rounded-full hover:bg-amber-400 hover:scale-110 hover:text-white"
+      className="ArrowUp fixed bottom-6 right-6 bg-gray-500 text-white p-3.5 rounded-full hover:bg-cyan-400 hover:scale-110 hover:text-white"
       onClick={handleClick}
       title="Scroll to top"
     >
