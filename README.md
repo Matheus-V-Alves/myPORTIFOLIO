@@ -16,7 +16,7 @@ O portfólio contém as seguintes funcionalidades:
 ## Requisitos
 - O menu foi implementado utilizando rotas para facilitar a navegação entre as seções do site.
 - A lista de projetos utiliza `props` para exibir informações e rotas dinâmicas para visualizar detalhes de cada projeto.
-- O formulário de contato imprime as informações fornecidas pelo usuário no `console.log`.
+- O formulário de contato imprime as informações fornecidas pelo usuário no `console.log`. fiz passar para o email, ok?
 - O CSS foi implementado utilizando **Tailwind CSS**, garantindo a responsividade e oferecendo suporte ao modo noturno.
 - O rodapé contém ícones provenientes de uma biblioteca de ícones do React.
 
