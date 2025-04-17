@@ -51,15 +51,51 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
                 </a>
               </div>
               <div className="text-xs flex flex-col gap-1 items-center">
-                <span> Feito em : JavaScript XML, Vanilla CSS, TypeScript, Tailwind</span>
+                <span> Projeto em : JavaScript XML, Vanilla CSS, Tailwind, Typescript, React</span>
                 <span>Tools: React router, RestAPI</span>
               </div>
             </div>
           )}
         </div>
       </div>
-      <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-cyan-400 cursor-pointer">
-        Em breve
+      <div className=" bg-black/50 relative rounded text-xl text-white cursor-pointer">
+        <div
+          className="card"
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+        >
+          <div className="card-bg absolute top-0 left-0 w-full h-full" />
+          {isHovered && (
+            <div className="card-overlay absolute top-0 left-0 w-full h-full bg-black/50 backdrop-blur-sm flex flex-col items-center justify-center gap-5 opacity-0">
+              <div className="font-bold flex items-center justify-center">
+                Projeto de  uma plataforma voltada para melhorar a eficiência energética de comunidades remotas, Global Solution FIAP.
+              </div>
+              <div className="links flex items-center justify-center gap-5">
+                <a
+                  className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center hover:bg-blue-500 hover:text-black"
+                  href="ohmni-gs.github.io/Web-dev/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FontAwesomeIcon icon={faEye} />
+                  Visualizar site
+                </a>
+                <a
+                  className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center  hover:bg-blue-500 hover:text-black"
+                  href="https://github.com/Ohmni-GS/Web-dev"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FontAwesomeIcon icon={faCode} />
+                  Código
+                </a>
+              </div>
+              <div className="text-xs flex flex-col gap-1 items-center">
+                <span> Feito em : JavaScript, Vanilla CSS, Tailwind, Python</span>
+              </div>
+            </div>
+          )}
+        </div>
       </div>
       <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-cyan-400 cursor-pointer">
         Em breve

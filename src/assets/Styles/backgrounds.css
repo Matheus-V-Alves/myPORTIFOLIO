@@ -66,3 +66,9 @@
     background-position: center;
     background-size: cover;
 }
+
+.card-bg {
+    background-image: url('../Images/project-ohmni.png');
+    background-position: center;
+    background-size: cover;
+}

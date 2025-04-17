@@ -20,8 +20,8 @@ const Home = () => {
         </span>
       </>
       <span className=" text-2xl text-center relative font-genos">
-         Desenvolvedor Frontend e esse é o meu Portifólio. <br/>
-         (Apenas para o CP, o real se encontra no meu github)
+         Desenvolvedor Frontend, Analista de dados e esse é o meu Portifólio. <br/>
+         
       </span>
     </div>
   );

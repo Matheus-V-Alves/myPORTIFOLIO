@@ -26,6 +26,8 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <li>TailWindCSS</li>
             <li>Bootstrap</li>
             <li>Next js</li>
+            <li>Python</li>
+
           </ul>
         </div>
         <div className="skill-sec2 flex flex-col text-center gap-5 pt-6 pb-6 pr-12 pl-12 rounded bg-white/10 hover:bg-black/40">
@@ -37,10 +39,11 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <li>Vite.js</li>
             <li>UI bibliotec</li>
             <li>Figma</li>
-            <li>Bash</li>
-            <li>Postman</li>
-            <li>AdobeXD</li>
-            <li>Chrome/Firefox Dev Tools</li>
+            <li>Jupyter notebook</li>  
+            <li>pycharm</li>
+            <li>G coolab</li>
+            <li>WireShark</li>
+            <li>Intellij</li>
             <li>Visual Studio Code</li>
           </ul>
         </div>
@@ -50,7 +53,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
           </span>
           <ul className="flex flex-col gap-1 font-semibold text-base text-lime-50">
             <li>React Router</li>
-            <li>RestAPI/RestFulAPI</li>
+            <li>Database</li>
             <li>Inglês B2</li>
             <li>Google/Microsoft Workspace</li>
             <li>Critical Thinking</li>
