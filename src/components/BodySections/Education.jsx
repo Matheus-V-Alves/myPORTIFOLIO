@@ -90,10 +90,10 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                   <div className="text-3xl font-medium  text-amber-300">
                     Périodos:
                   </div>
-                  <div className="text-lg">1º média- 9.29 </div>
-                  <div className="text-lg">2º média- 9.69 </div>
-                  <div className="text-lg">3º média- 8.87 </div>
-                  <div className="text-lg">4º média- em curso </div>
+                  <div className="text-lg">1º- média 9.29 </div>
+                  <div className="text-lg">2º- média 9.69 </div>
+                  <div className="text-lg">3º- média 8.87 </div>
+                  <div className="text-lg">4º- média em curso </div>
                 </div>
               </div>
             </div>
