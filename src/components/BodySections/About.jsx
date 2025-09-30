@@ -14,7 +14,7 @@ const About = () => {
             Sobre mim:{" "}
           </div>
           <div className="about-body-right-content h-auto flex items-center justify-center text-justify">
-          Sou apaixonado por tecnologia e estou sempre em busca de aprender novas ferramentas e linguagens que ampliem meus conhecimentos. Tenho um grande interesse em desenvolvimento web e design, onde posso transformar ideias em interfaces funcionais e atraentes. No meu tempo livre, gosto de jogar FPS, praticar esportes e exercícios físicos, e acompanhar a Fórmula 1, uma das minhas maiores paixões. Gosto de encarar desafios que me tiram da zona de conforto e me ajudam a evoluir tanto pessoal quanto profissionalmente.
+          Sou apaixonado por tecnologia e estou sempre em busca de aprender novas ferramentas e linguagens que ampliem meus conhecimentos. Gosto de usar a criatividade para trazer soluções para problemas reais, negócios principalmente. Tenho uma facilidade com design ux. No meu tempo livre, gosto de jogar FPS, praticar esportes e exercícios físicos, e acompanhar a Fórmula 1, uma das minhas maiores paixões. Gosto de encarar desafios que me tiram da zona de conforto e me ajudam a evoluir tanto pessoal quanto profissionalmente.
           </div>
           <Link to="/resume">
             {" "}
