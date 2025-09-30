@@ -27,6 +27,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <li>Bootstrap</li>
             <li>Next js</li>
             <li>Python</li>
+            <li>SQL</li>
 
           </ul>
         </div>
@@ -45,6 +46,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <li>WireShark</li>
             <li>Intellij</li>
             <li>Visual Studio Code</li>
+            <li>OracleDB</li>
           </ul>
         </div>
         <div className="skill-sec3 flex flex-col text-right gap-5 pt-6 pb-6 pr-10 pl-10 rounded bg-white/10 hover:bg-black/40">
@@ -59,6 +61,8 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <li>Critical Thinking</li>
             <li>Multi-tarefas</li>
             <li>Adaptabilidade</li>
+            <li>Criatividade</li>
+            <li>Trabalho em equipe</li>
           </ul>
         </div>
       </div>
